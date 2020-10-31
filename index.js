@@ -17,3 +17,5 @@ let prioQ = async (message) => {
 
 }
 
+module.exports = prioQ;
+
