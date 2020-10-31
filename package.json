@@ -1,0 +1,25 @@
+{
+  "name": "2b2t",
+  "version": "1.0.0",
+  "description": "A lightweight & easy to use 2b2t package for discord.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vypr-ysl/2b2t.git"
+  },
+  "keywords": [
+    "2b2t"
+  ],
+  "author": "Vypr | vypr_ysl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vypr-ysl/2b2t/issues"
+  },
+  "homepage": "https://github.com/vypr-ysl/2b2t#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
