@@ -1,6 +1,6 @@
 {
   "name": "2b2t",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight & easy to use 2b2t package for discord.js.",
   "main": "index.js",
   "scripts": {
