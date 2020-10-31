@@ -20,6 +20,32 @@ A Lightweight & easy to use 2b2t package for discord.js.
 # How to install: 
 `npm install 2b2t`
 
+## PrioQ: 
+
+```js
+const Discord = require('discord.js');
+const client = new Discord.Client();
+let prioQ = require('2b2t'); // Require 2b2t prioQ
+
+client.on('message', async (message) => {
+
+if(message.content === "!prioq") {
+
+let prio = await prioQ();
+
+const embed = new Discord.MessageEmbed()
+.setTitle('2b2t Priority Queue:')
+.setDescription(`Players in PrioQ: ${prio[1]}\n
+Estimated Time in PrioQ: ${prio[2]}`)
+
+message.channel.send(embed)
+
+  }
+})
+
+
+```
+
 
 
 # Support 
