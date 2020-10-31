@@ -8,6 +8,15 @@
 
 A Lightweight & easy to use 2b2t package for discord.js.
 
+# Additional Dependencies Required: 
+<img alt="discord.js" width="26px" src="https://discord.js.org/static/logo-square.png" /> [discord.js](https://github.com/discordjs/discord.js) `npm install discord.js`
+
+
+<img alt="node-fetch" width="26px" src="https://avatars1.githubusercontent.com/u/59502381?s=200&v=4" /> [node-fetch](https://github.com/node-fetch/node-fetch) `npm i node-fetch`
+
+
+
+
 # How to install: 
 `npm install 2b2t`
 
