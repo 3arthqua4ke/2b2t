@@ -51,6 +51,15 @@ message.channel.send(embed)
 # Support 
 ![https://discord.gg/nPPyxc4](https://discordapp.com/api/guilds/770734086766592020/widget.png?style=banner2)
 
+# Contributing:
+
+Feel free to make contributions to this project. Pull Requests & Issues will be reviewed.
+
+Please check the [Pull Request Template](https://github.com/vypr-ysl/2b2t/blob/master/Documentation/PULL_REQUEST_TEMPLATE.md) before making Pull Requests.
+
+Please check the [Issue Template](https://github.com/vypr-ysl/2b2t/blob/master/Documentation/ISSUE_TEMPLATE.md) before creating any Issues.
+
+
 # Credits:
 
 Thank you [LolRiTTeR](https://github.com/LolRiTTeR) for the [2b2t API](https://2b2t.dev). 
