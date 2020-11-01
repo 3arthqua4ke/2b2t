@@ -67,3 +67,6 @@ Thank you [LolRiTTeR](https://github.com/LolRiTTeR) for the [2b2t API](https://2
 Thank you [Discord.js](https://github.com/discordjs) for [discord.js](https://github.com/discordjs/discord.js).
 
 Thank you [Node-Fetch](https://github.com/node-fetch) for [node-fetch](https://github.com/node-fetch/node-fetch).
+
+# License:
+[MIT](https://github.com/vypr-ysl/2b2t/blob/master/LICENSE)
