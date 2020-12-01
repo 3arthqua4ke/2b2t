@@ -1,4 +1,8 @@
-https://nodei.co/npm/2b2t.png?downloads=true&stars=true
+<div align="center">
+ <p>
+    <a href="https://nodei.co/npm/discord.js/"><img src="https://nodei.co/npm/2b2t.png?downloads=true&stars=true" alt="npm install 2b2t"/></a>
+  </p>
+</div>
 
 A lightweight & easy to use npm package for 2b2t. 
 
