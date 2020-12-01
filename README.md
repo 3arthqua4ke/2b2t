@@ -1,6 +1,6 @@
 <div align="center">
  <p>
-    <a href="https://nodei.co/npm/discord.js/"><img src="https://nodei.co/npm/2b2t.png?downloads=true&stars=true" alt="npm install 2b2t"/></a>
+    <a href="https://nodei.co/npm/2b2t/"><img src="https://nodei.co/npm/2b2t.png?downloads=true&stars=true" alt="npm install 2b2t"/></a>
   </p>
 </div>
 
