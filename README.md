@@ -14,6 +14,7 @@ A lightweight & easy to use npm package for 2b2t.
 **PrioQ:**
 ```
 Function: prioQ()
+// let prio = await PrioQ()
 prio[1] - Players in PrioQ.
 prio[2] - Estimated Time in PrioQ. 
 ```
