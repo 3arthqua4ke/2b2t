@@ -4,23 +4,34 @@
   </p>
 </div>
 
-A lightweight & easy to use npm package for 2b2t. 
+A lightweight & easy to use npm package for getting 2b2t queue info. 
 
 # How to install: 
-`npm install 2b2t`
+```bash
+$ npm install 2b2t
+```
 
-## Parameters:
+## Usage:
 
 **PrioQ:**
-```
+```js
 Function: PrioQ()
 let prio = await PrioQ()
-prio[1] - Players in PrioQ.
-prio[2] - Estimated Time in PrioQ. 
+prio[1] // Players in PrioQ.
+prio[2] // Estimated Time in PrioQ. 
+```
+
+**NormalQ:**
+```js
+Function: queue()
+queue().then(d => {
+  d.queue;      // Players in NormalQ.
+  d.updatetime; // Last time data was upated.
+});
 ```
 
 # Support 
-![https://discord.gg/nPPyxc4](https://discordapp.com/api/guilds/770734086766592020/widget.png?style=banner2)
+![https://discord.gg/nPPyxc4](https://discord.gg/nPPyxc4)
 
 # Contributing:
 
