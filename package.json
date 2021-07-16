@@ -24,5 +24,8 @@
   "homepage": "https://github.com/vypr-ysl/2b2t#readme",
   "dependencies": {
     "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
   }
 }
